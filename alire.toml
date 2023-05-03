@@ -1,0 +1,9 @@
+name = "monitor"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Beloin Rodrigues"]
+maintainers = ["Beloin Rodrigues <beloin.rodrigues@gmail.com>"]
+maintainers-logins = ["beloin"]
+
+executables = ["monitor2"]
